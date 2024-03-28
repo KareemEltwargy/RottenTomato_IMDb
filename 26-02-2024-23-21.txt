@@ -1,0 +1,37 @@
+IMDb
++++++++++++++++++++
+Movie Title: The Mummy
+Movie Length: 2h 4m
+Movie Type: PG-13
+Movie Year: 1999
+Movie Rating: 7.1
+------------------
+Movie Title: Green Book
+Movie Length: 2h 10m
+Movie Type: PG-13Movie Year: 2018
+Movie Rating: 8.2
+------------------
+Movie Title: Ted
+Movie Length: 
+Movie Type: TV-MA
+Movie Year: 2024
+Movie Rating: 8.0
+------------------
++++++++++++++++++++
+Rotten Tomato
++++++++++++++++++++
+Movie Title: Spider-Man
+Movie Length: 1h 56m
+Movie Type: PG-13Movie Year: 2002
+Movie Rating: 67
+------------------
+Movie Title: 
+Movie Length: 1h 27m
+Movie Type: 
+Movie Year: 2024
+Movie Rating: 80
+------------------
+Movie Title: Green BookMovie Length: 2h 10m
+Movie Type: PG-13Movie Year: 2018
+Movie Rating: 91
+------------------

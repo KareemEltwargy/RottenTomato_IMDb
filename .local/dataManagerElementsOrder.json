@@ -1,0 +1,171 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strMovieSearch&Flowchart_3",
+        "strMovieTitle&Flowchart_3",
+        "strMovieYear&Flowchart_3",
+        "strMovieType&Flowchart_3",
+        "strMovieLength&Flowchart_3",
+        "strMovieRating&Flowchart_3",
+        "boolSearchAgain&Flowchart_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OpenSite.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strOldSiteName",
+        "in_strSiteName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetMovieDataIMDb.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolMovieLengthExist&Sequence_2",
+        "boolTypeExist&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strSiteName",
+        "out_strMovieRating",
+        "out_strMovieLength",
+        "out_strMovieType",
+        "out_strMovieYear",
+        "out_strMovieTitle"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetMovieSearch.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_strMovieSearch"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PrintData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strMovieRating",
+        "in_strMovieYear",
+        "in_strMovieLength",
+        "in_strMovieType",
+        "in_strMovieTitle"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SearchIMDb.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strSiteName",
+        "in_strMovieSearch"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CloseBrowser.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strMovieTitle&Flowchart_4",
+        "strMovieYear&Flowchart_4",
+        "strMovieType&Flowchart_4",
+        "strMovieLength&Flowchart_4",
+        "strMovieRating&Flowchart_4",
+        "boolSearchAgain&Flowchart_4",
+        "strMovieSearch&Flowchart_4",
+        "strSiteName&Flowchart_4",
+        "strOldSiteName&Flowchart_4",
+        "strIMDbData&Flowchart_4",
+        "strTomatoData&Flowchart_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ChooseSite.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_strSiteName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SearchTomato.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolAdBlocker&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_strMovieSearch"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetMovieDataTomato.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolTypeExist&Sequence_2",
+        "strMovieData&Sequence_1",
+        "arrString&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_strMovieRating",
+        "out_strMovieLength",
+        "out_strMovieType",
+        "out_strMovieYear",
+        "out_strMovieTitle"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SaveText.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strTomatoData",
+        "in_strIMDbData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+IMDb
+------------------
+test------------------
+Rotten Tomato
+Movie Title: The Mummy Murders
+Movie Length: 1h 27m
+Movie Type: Horror/Crime
+Movie Year: 2024
+Movie Rating: 80
+------------------

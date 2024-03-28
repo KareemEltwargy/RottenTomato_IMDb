@@ -1,0 +1,21 @@
+IMDb
+------------------
+Movie Title: Green Book
+Movie Length: 2h 10m
+Movie Type: Comedy/Drama
+Movie Year: 2018
+Movie Rating: 91
+Movie Title: Green BookMovie Length: 2h 10m
+Movie Type: Comedy/DramaMovie Year: 2018
+Movie Rating: 91
+------------------
+Rotten Tomato
+Movie Title: The Godfather
+Movie Length: 2h 55m
+Movie Type: RatingMovie Year: 1972
+Movie Rating: 9.2
+Movie Title: Avatar: The Last Airbender
+Movie Length: 55m
+Movie Type: TV-PG
+Movie Year: 2024– 
+Movie Rating: 7.5
